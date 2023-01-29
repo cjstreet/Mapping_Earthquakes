@@ -19,5 +19,5 @@ Tectonic plate data is obtained in GeoJSON format from fraxen's GitHub repositor
 ## Results:
 
 ### Interactive Map
-<a href="https://cjstreet.github.io/Bacteria-Biodiversity/">Bacteria-Biodiversity</a>
+<a href="https://cjstreet.github.io/Mapping_Earthquakes/Earthquake_Challenge/">Earthquake_Challenge</a>
 
