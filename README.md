@@ -1,5 +1,5 @@
 # Mapping_Earthquakes
-Javascript, D3, Leaflet, MapBox, and GeoJSON
+Using Mapbox & Leaflet maps displaying the most recent earthquakes over the past 7 days. API calls to retrieve data including GeoJSON.
 
 
 ## Objective:
